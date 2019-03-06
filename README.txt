@@ -1,6 +1,6 @@
 ===========================================================
 
-Congratulations!
+Congratulations! Buddy
 
 You have successfully checked out a copy of the latest
 stable release of Virtual Lab Developer Kit. The current
